@@ -1,5 +1,2 @@
-<<<<<<< .merge_file_a21116
 qweqweqweqwe
-=======
 asdasdasd
->>>>>>> .merge_file_a06152
