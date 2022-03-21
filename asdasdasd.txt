@@ -1,5 +1,1 @@
-<<<<<<< .merge_file_a12072
-ABCDEF
-=======
-123456
->>>>>>> .merge_file_a03168
+asdasd
